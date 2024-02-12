@@ -15,7 +15,7 @@ final class CalculatorViewModel: ObservableObject {
     }
     
     func setBottomAmount(_ amount: Double) {
-        bottomAmount = topAmount
+        bottomAmount = amount
         updateTopAmount()
     }
     
