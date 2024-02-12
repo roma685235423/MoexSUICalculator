@@ -1,1 +1,1 @@
-# moexSUICalculator
+# MoexSUICalculator
