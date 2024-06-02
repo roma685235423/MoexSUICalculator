@@ -88,3 +88,12 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+# Ignore Xcode project and workspace files
+*.xcodeproj
+*.xcworkspace
+*.xcscheme
+*.pbxproj
+getOfferOfDream.xcodeproj/xcshareddata/xcschemes/getOfferOfDream.xcscheme
+*.pbxproj
+getOfferOfDream.xcodeproj/project.pbxproj
